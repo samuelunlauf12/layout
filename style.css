@@ -52,6 +52,25 @@ main .noticia{
 }
 main .noticia img{
     width:200px;
+    padding: 10px;
+}
+main .descricao{
+    padding: 10px;
+}
+main .descricao h3{
+    background: blue;
+    color: white;
+    padding: 15px;
+}
+main .descricao p{
+    margin-top: 20px;
+    letter-spacing: 3px;  
+    line-height: 25px;
+}
+main .descricao a{
+    background: blue;
+    color: white;
+    padding: 5px 15px;
 }
 aside{
 	width: 20%;
