@@ -38,7 +38,6 @@ div.content{
 }
 main{
 	width: 80%;
-	height: 60vh;
     border:1px solid black;
 }
 main .bloco-principal{
@@ -100,7 +99,10 @@ main.grid-3.coluna a:hover{
 aside{
 	width: 20%;
 	height: 60vh;
-	background: gray;
+}
+aside img{
+    width: 100%;
+    margin: 10%;
 }
 footer{
 	width: 100%;
